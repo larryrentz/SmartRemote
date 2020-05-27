@@ -2,8 +2,8 @@
 Future research:
 -importing a js file in another js file (for encapuslation purposes)
  */
-var accessToken = "efeeddbd97e56369e66d4c3b12ef7202551d90de";
-var deviceID = "4a0026001051373331333230"
+var accessToken = "";
+var deviceID = ""
 var light_url = "https://api.particle.io/v1/devices/" + deviceID + "/led";
 var receive_url = "https://api.particle.io/v1/devices/" + deviceID + "/receive";
 var send_url = "https://api.particle.io/v1/devices/" + deviceID + "/send";
